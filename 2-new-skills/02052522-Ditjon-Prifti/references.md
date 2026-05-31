@@ -1,46 +1,15 @@
 # References
 
-1. GitHub Copilot Productivity Research  
-https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
+1. Kumar, S. (2023). Developing Human Skills in the Era of Artificial Intelligence: Challenges and Opportunities for Education and Training. Scholedge International Journal of Multidisciplinary & Allied Studies, 10(2).
 
-2. Measuring GitHub Copilot’s Impact on Productivity – ACM Communications  
-https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/
+2. Hutson, J., & Ceballos, J. (2023). Rethinking education in the age of AI: The importance of developing durable skills in the industry 4.0. Journal of Information Economics, 1(2).
 
-3. Stack Overflow Developer Survey 2024 – AI Section  
-https://survey.stackoverflow.co/2024/ai
+3. Chen, N. S., Smyrnova-Trybulska, E., Morze, N., Ślósarz, A., Glushkova, T., Przybyła-Kasperek, M., ... & Gubo, Š. (2024). Education in the era of AI, enhancing skills, challenges and perspectives–International context and national experience. International Journal of Research in E-learning, 10(2), 1-30.
 
-4. Microsoft Research – The Impact of AI on Developer Productivity  
-https://www.microsoft.com/en-us/research/publication/the-impact-of-ai-on-developer-productivity-evidence-from-github-copilot/
+4. Adepoju, M. A. O., & Adepoju, S. A. (2025). Mapping the evolution its roles and skills requirements in the age of AI. World Journal of Advanced Research and Reviews. doi: https://www. semanticscholar. org/paper/589255405f67812a85daaeef3b9f869f5f96f8b4.
 
-5. GitHub AI and Machine Learning Articles  
-https://github.blog/ai-and-ml/
+5. Reuben, J. M. (2023). Training and skills alignment for the AI generation. GSJ, 11(6), 1503-1518.
 
-6. OpenAI Research  
-https://openai.com/research/
+6. AlAfnan, M. A., Dishari, S., & MohdZuki, S. F. (2024). Developing soft skills in the artificial intelligence era: Communication, business writing, and composition skills. Journal of Artificial Intelligence and Technology, 4(4), 305-317.
 
-7. OWASP Top 10 for Large Language Model Applications  
-https://owasp.org/www-project-top-10-for-large-language-model-applications/
-
-8. World Economic Forum – Future of Jobs Report  
-https://www.weforum.org/reports/the-future-of-jobs-report-2023/
-
-9. McKinsey – The State of AI Report  
-https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
-
-10. Harvard Business Review – How Generative AI Is Changing Software Development  
-https://hbr.org/2024/01/how-generative-ai-is-changing-software-development
-
-11. Amazon CodeWhisperer Documentation  
-https://aws.amazon.com/codewhisperer/
-
-12. GitHub Copilot Documentation  
-https://docs.github.com/en/copilot
-
-13. ChatGPT and AI for Software Development – OpenAI  
-https://openai.com/chatgpt
-
-14. Google Developers – AI and Software Engineering Resources  
-https://developers.google.com/machine-learning
-
-15. IBM – Artificial Intelligence in Software Development  
-https://www.ibm.com/topics/artificial-intelligence
+7. Shiohira, K. (2021). Understanding the Impact of Artificial Intelligence on Skills Development. Education 2030. UNESCO-UNEVOC International Centre for Technical and Vocational Education and Training. UN Campus, Hermann-Ehlers-Strasse 10, 53113 Bonn, Germany.
