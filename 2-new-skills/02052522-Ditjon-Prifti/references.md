@@ -13,3 +13,9 @@
 6. AlAfnan, M. A., Dishari, S., & MohdZuki, S. F. (2024). Developing soft skills in the artificial intelligence era: Communication, business writing, and composition skills. Journal of Artificial Intelligence and Technology, 4(4), 305-317.
 
 7. Shiohira, K. (2021). Understanding the Impact of Artificial Intelligence on Skills Development. Education 2030. UNESCO-UNEVOC International Centre for Technical and Vocational Education and Training. UN Campus, Hermann-Ehlers-Strasse 10, 53113 Bonn, Germany.
+
+8.  https://www.researchgate.net/publication/401835732_HUMAN_VALUES_IN_THE_AI_ERA_DEVELOPING_ESSENTIAL_LIFE_SKILLS_FOR_SUSTAINABLE_HUMAN-TECHNOLOGY_COEXISTENCE
+
+9.  https://www.researchgate.net/publication/404798821_The_Most_Important_Skill_in_the_AI_Era_May_Be_Knowing_When_Not_to_Use_AI
+
+10.  https://www.researchgate.net/publication/403791483_Perceived_Importance_of_Cognitive_Skills_Among_Computing_Students_in_the_Era_of_AI
